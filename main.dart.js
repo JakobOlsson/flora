@@ -25400,7 +25400,7 @@ R:function(a,b){var s,r,q,p,o,n,m,l=this,k=null
 P.fU("text length: "+C.f.h(l.a.d.d.length))
 s=l.a
 r=s.d
-s=M.dQ(k,k,k,k,900+r.d.length/2.5,k,k,s.e)
+s=M.dQ(k,k,k,k,900+r.d.length/2.2,k,k,s.e)
 q=M.dQ(k,k,k,new S.eg(k,X.abl(C.ex,new L.jl(r.b,k,k)),k,new K.bL(C.H,C.H,new P.bc(20,20),new P.bc(20,20)),k,k,C.a0),900,k,new V.aZ(10,10,10,10),1/0)
 p=K.vy(20)
 r=M.dQ(k,L.mP(r.a,A.kt(k,k,k,k,k,k,k,k,k,k,k,24,C.la,C.bm,k,k,!0,k,k,k,k,k,k,k),C.b9,k),k,k,k,k,new V.aZ(0,20,0,0),k)
